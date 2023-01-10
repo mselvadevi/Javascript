@@ -2,3 +2,6 @@
 'use strict';
 const localVar = 23;
 
+
+let txt = 22222;
+
