@@ -5,3 +5,5 @@ const localVar = 23;
 
 let txt = 22222;
 
+let ttt = 45;
+
